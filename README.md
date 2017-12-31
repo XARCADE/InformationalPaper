@@ -1,1 +1,1 @@
-# InformationalPaper
+# Informational Paper
