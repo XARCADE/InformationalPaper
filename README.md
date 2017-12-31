@@ -1,1 +1,1 @@
-# Informational Paper
+What is Xarcade?
